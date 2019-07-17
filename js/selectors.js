@@ -14,6 +14,6 @@ function divSelector(){
   $('.pics')
 }
 
-function firstListitem(){
-  
+function firstListItem(){
+  $('')
 }
