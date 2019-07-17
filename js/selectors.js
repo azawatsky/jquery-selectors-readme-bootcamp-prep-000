@@ -1,7 +1,19 @@
 function paragraphSelector(){
-  $('p')
+  $('p');
 }
 
 function lastImageSelector(){
-  $('#babyNinja')
+  $('img:last');
+}
+
+function babyNinjaSelector(){
+  $('#baby-ninja');
+}
+
+function divSelector(){
+  $('.pics')
+}
+
+function firstListitem(){
+  
 }
